@@ -1,4 +1,5 @@
 <?php
+
 class My_Widget extends WP_Widget {
 
 	public function __construct() {
@@ -16,5 +17,5 @@ class My_Widget extends WP_Widget {
 	public function widget( $args, $instance ) {
 		
 	}
-	
+
 }
